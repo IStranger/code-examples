@@ -16,7 +16,7 @@ use common\csv\mixins\validation\CsvReaderOptionValidationTrait;
  * The class describes CsvReaderOptions.
  *
  * NOTE: the class extends common Yii model **only** for validation purposes.
- * It will be used in validation trait to implement {@link IValidatable}.
+ * It will be used in the validation trait to implement {@link IValidatable}.
  */
 class CsvReaderOptions extends \common\components\Model implements IValidatable
 {
