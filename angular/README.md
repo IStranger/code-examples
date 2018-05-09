@@ -83,23 +83,6 @@ import {forwardConfigToScreensaverModule} from '@shared/screensaver';
 })
 export class MyModule {
 }
-
-
-@NgModule({
-    imports  : [
-        ScreensaverModule.forRoot({
-            animation: {
-                rayQty               : 150,
-                clockwiseAnimation   : true,
-                // rayOrientationAngle: 1 / 3 * Math.PI,
-                // rayGlowDistance   : 200,
-                rayGlowEasingVelocity: 0.35,
-            }
-        }),
-    ],
-})
-export class MyModule {
-}
 ```
 
 where `forwardConfigToScreensaverModule`:
