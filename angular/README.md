@@ -97,7 +97,7 @@ export class MyModule {
 
 where `forwardConfigToScreensaverModule`:
 
-```
+```typescript
 import {FactoryProvider, Provider} from '@angular/core';
 
 import {CONFIG_TOKEN_SCREENSAVER_MODULE} from '@shared/screensaver';
