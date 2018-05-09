@@ -65,7 +65,7 @@ class SomeClass {
         $options               = new CsvReaderOptions($this->_getDefaultCsvReaderOptions());
         $options->csvPath      = $csvPath;
         $options->skipFirstRow = true;
-        // $options->headers              = [];
+        // $options->headers              = ['manually', 'defined', 'columns'];
         // $options->csvDelimiter         = "\t";        // by default ","
         // $options->csvEnclosure         = "'";         // by default '"'
         // $options->csvEscape            = '\\';
