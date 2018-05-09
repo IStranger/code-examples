@@ -6,7 +6,7 @@
 
 # Test
 
-<img src="https://github.com/IStranger/code-examples/blob/master/_assets/code-its-fun.jpg?raw=true" width="850" />
+<img src="https://github.com/IStranger/code-examples/blob/master/_assets/code-its-fun.jpg?raw=true" width="100%" />
 
 ![alt text](https://github.com/IStranger/code-examples/blob/master/_assets/code-its-fun.jpg?raw=true)
 
