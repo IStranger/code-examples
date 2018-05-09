@@ -2,10 +2,6 @@
 
 The module provides main animation for the my personal site https://fx4.ru.
 
-<a href="https://fx4.ru/" target="_blank" title="Go to my homepage" align="right">
-    <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="407" alt="Canvas Animation" />
-</a>
-
 ## Key features
 
  - Configuration via Angular's DI container (see [di-config](screensaver/di-config)).
@@ -26,6 +22,12 @@ The module provides main animation for the my personal site https://fx4.ru.
 ## Demo
 
 The module works on the https://fx4.ru (canvas based engine).
+
+<p align="center">
+    <a href="https://fx4.ru/" target="_blank" title="Go to my homepage">
+        <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="407" alt="Canvas Animation" />
+    </a>
+</p>
 
 
 
