@@ -2,9 +2,9 @@
 
 The module provides main animation for the my personal site https://fx4.ru.
 
-<table width="100%" border="0" bordercolor="transparent">
-<tr>
-<td>
+<a href="https://fx4.ru/" target="_blank" title="Go to my homepage" align="right">
+    <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="407" alt="Canvas Animation" />
+</a>
 
 ## Key features
 
@@ -26,18 +26,6 @@ The module provides main animation for the my personal site https://fx4.ru.
 ## Demo
 
 The module works on the https://fx4.ru (canvas based engine).
-
-</td>
-<td width="407" style="border: none;">
-    <p align="right">
-         <a href="https://fx4.ru/" target="_blank" title="Go to my homepage">
-             <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="407" alt="Canvas Animation" />
-         </a>
-    </p>
-</td>
-</tr>
-</table>
-
 
 
 
