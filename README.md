@@ -2,6 +2,7 @@
 
 
  - PHP: [Yet Another CSV Reader](php/README.md)
+ - PHP: [Yii Scheduler module](yii/yii2-scheduler-module/README.md)
  - TypeScript: [Angular ScreenSaver Module](angular/README.md)
 
 <p align="center">
