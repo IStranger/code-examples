@@ -25,7 +25,7 @@ The module works on the https://fx4.ru (canvas based engine).
 
 <p align="center">
     <a href="https://fx4.ru/" target="_blank" title="Go to my homepage">
-        <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="407" alt="Canvas Animation" />
+        <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="732" alt="Canvas Animation" />
     </a>
 </p>
 
