@@ -3,10 +3,12 @@
 The reader works as a component of Yii application and uses some Yii helpers and common classes.
 However, library has a weak dependence on the Yii core and may be easily ported to any another application.
 
-Key features:
+
+## Key features:
+
  - Uses interfaces `ICsvReader` and `ICsvRow` to reduce dependencies on data source.
- - Uses iterators to allow to read large data sources.
- - Internal model validation works using `IValidatable` interface.
+ - Uses iterators to read large data sources.
+ - Internal model validation works via `IValidatable` interface.
 
 
 
