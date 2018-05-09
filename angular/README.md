@@ -2,6 +2,12 @@
 
 The module provides main animation for the my personal site https://fx4.ru.
 
+<p align="right">
+    <a href="https://fx4.ru/" target="_blank" title="Go to my homepage">
+        <img src="https://github.com/IStranger/code-examples/blob/master/_assets/canvas-animation.gif?raw=true" width="100%" alt="Canvas Animation" />
+    </a>
+</p>
+
 
 ## Key features
 
