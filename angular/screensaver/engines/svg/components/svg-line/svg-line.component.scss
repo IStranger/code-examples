@@ -1,0 +1,29 @@
+
+.line {
+    fill: #6c6d75;
+    stroke: #6c6d75;
+    stroke-miterlimit: 10;
+    stroke-width: 1px;
+    opacity: 0.2;
+}
+
+.circle {
+}
+
+.type-0 {
+    .circle {
+        fill: #f93f89;
+    }
+}
+
+.type-1 {
+    .circle {
+        fill: #04cdd4;
+    }
+}
+
+.type-2 {
+    .circle {
+        fill: #2e55bf;
+    }
+}

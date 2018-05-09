@@ -1,0 +1,15 @@
+:host {
+    position: relative;
+    display: block;
+    width: 500px;
+    height: 1000px;
+}
+
+.svg {
+    shape-rendering: auto;
+}
+
+.svg-vector {
+    width: 500px;
+    height: 1000px;
+}

@@ -1,0 +1,22 @@
+<ng-container *ngIf="_isCanvasEngine()">
+
+    <app-canvas-screensaver
+        class="screensaver"
+        [playerOptions]="_getPlayerOptions()"
+        (playerInit)="_onPlayerInit($event)">
+    </app-canvas-screensaver>
+
+</ng-container>
+
+
+<ng-container *ngIf="_isSvgEngine()">
+
+    <app-svg-screensaver
+        class="screensaver"
+        [engine]="_getEngine()"
+        [playerOptions]="_getPlayerOptions()"
+        (playerInit)="_onPlayerInit($event)">
+    </app-svg-screensaver>
+
+</ng-container>
+

@@ -1,0 +1,11 @@
+<div #viewport class="viewport">
+
+    <!-- NOTE: SvgRayComponent updates rayToDraw.rayElement after initialization  -->
+    <app-svg-ray
+        class="vector"
+        *ngFor="let rayToDraw of _raysToDraw; let i = index;"
+        [rayToDraw]="rayToDraw"
+        [screenOptions]="playerOptions.screenOptions">
+    </app-svg-ray>
+
+</div>

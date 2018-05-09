@@ -4,7 +4,7 @@ The reader works as a component of Yii application and uses some Yii helpers and
 However, library has a weak dependence on the Yii core and may be easily ported to any another application.
 
 
-## Key features:
+## Key features
 
  - Uses interfaces `ICsvReader` and `ICsvRow` to reduce dependencies on data source.
  - Uses iterators to read large data sources.

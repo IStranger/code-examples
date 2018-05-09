@@ -1,0 +1,16 @@
+<svg:g [attr.class]="'type-'+typeNum">
+
+    <line class="line"
+          [attr.x1]="start.x"
+          [attr.y1]="start.y"
+          [attr.x2]="_end.x"
+          [attr.y2]="_end.y">
+    </line>
+
+    <circle class="circle"
+            [attr.cx]="start.x"
+            [attr.cy]="start.y"
+            r="1">
+    </circle>
+
+</svg:g>
